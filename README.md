@@ -7,7 +7,8 @@ This folder contains the raw data used for the project.  It also contains the pr
 that data into something suitable for deep learning (this is described in detail in the paper) alog with the preprocessed data.
 It also contains the four models that are showcased in the paper.  
 
-One can dowload this entire folder and run it locally.
+One can dowload this entire folder and run it locally. If they do this, they will need to put all of the GL (Game Log) files into a local folder called "Game_Logs".
+
 However, the easiest solution is to used the google drive link below.  The used can then open up the notebooks and just click run.
 
 Note:  If the user uses the drive link below, the user DOES NOT need to run the preprocessor, it has already been run and the preprocessed data is in the folder.  It is included
