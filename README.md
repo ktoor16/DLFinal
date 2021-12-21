@@ -1,6 +1,8 @@
 # DL_Final
 kt2246DLFinal
 
+The shared google drive link is the preferred way to access the project
+
 This folder contains the raw data used for the project.  It also contains the preprocessor used to turn
 that data into something suitable for deep learning (this is described in detail in the paper) alog with the preprocessed data.
 It also contains the four models that are showcased in the paper.  
